@@ -1,7 +1,5 @@
 <scheme name="Yaron" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="24" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="2a2a2a" />
